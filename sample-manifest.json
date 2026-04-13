@@ -1,0 +1,12 @@
+{
+  "export_job_id": "104f27cc-2edb-4fd3-ac24-a21565272b69",
+  "id_short": 549439,
+  "published_at": "2026-04-13T07:04:50Z",
+  "repo_name": "top-30-active-restaurant-review-whales-in-san-diego-chula-vista-carlsbad-ca-metro-sample-549439",
+  "sample_asset_name": "beamstation_549439_restaurants-us-sandiegochulavistacarlsbadca_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/549439/beamstation_549439_restaurants-us-sandiegochulavistacarlsbadca_SAMPLE_DIST.csv",
+  "sample_records": 10,
+  "sample_sha256": "ec274bb1d0c7826fb9a98bf8e5ab4af513f02f0f15969e0e6db34c1e42c0cdc1",
+  "sample_size_bytes": 57949,
+  "total_records": 938
+}
