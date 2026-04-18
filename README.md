@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Review Whales in San Diego-Chula Vista-Carlsbad, CA Metro Area, US
 
-> Free BeamStation sample export with 10 rows and masked direct-contact fields.
+> Free BeamStation sample export with 107 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `549439` |
 | Location | San Diego-Chula Vista-Carlsbad, CA |
 | Category | Restaurants |
-| Full dataset size | 938 records |
-| Free sample size | 10 records (1.07%) |
-| Last export | 2026-03-31T23:38:09.609932+00:00 |
+| Full dataset size | 1,075 records |
+| Free sample size | 107 records (9.95%) |
+| Last export | 2026-04-15T01:17:56.306492+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-review-whales-in-san-diego-chula-vista-carlsbad-ca-metro-sample-549439/releases/download/sample-latest/beamstation_549439_restaurants-us-sandiegochulavistacarlsbadca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
