@@ -6,7 +6,7 @@
   "config_category": "sales",
   "config_description": "--High-Volume, Active targets--\n\nPopular restaurants sitting in the Top 30% of their local market for proven foot traffic and review volume within the last 90 days and a market scope of 1km.\n\nThese are the highest-velocity, actively transacting accounts for payment processing, POS systems, and supply chain sales.\n\nValidated by an \"Active Heartbeat\" signal.",
   "config_name": "Top 30% Active Restaurant Review Whales in San Diego-Chula Vista-Carlsbad, CA Metro Area, US",
-  "export_job_id": "d36dcb2b-b97f-49f0-ac11-4a507afd17b3",
+  "export_job_id": "5ce64a2a-413e-4663-8180-5d144630adc8",
   "github_org": "Beamstation-Datasets",
   "id_short": 549439,
   "location_name": "San Diego-Chula Vista-Carlsbad, CA",
@@ -14,9 +14,9 @@
   "repo_name": "top-30-active-restaurant-review-whales-in-san-diego-chula-vista-carlsbad-ca-metro-sample-549439",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/549439/beamstation_549439_restaurants-us-sandiegochulavistacarlsbadca_SAMPLE_DIST.csv",
   "sample_pct": 9.99,
-  "sample_records": 111,
-  "sample_sha256": "ca8ece080ddad36f871bd7736fe0f5197ae414c1bca6745c693b5d01474050f5",
-  "sample_size_bytes": 464044,
-  "total_records": 1111,
-  "updated_at": "2026-04-22T05:47:25.530956+00:00"
+  "sample_records": 228,
+  "sample_sha256": "eec1b52c1e44b939c67394094b7f7627f71c11851d6984d24d18e918f86f6cf9",
+  "sample_size_bytes": 945806,
+  "total_records": 2283,
+  "updated_at": "2026-04-29T07:57:08.619039+00:00"
 }
